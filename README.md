@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [in dev](in dev)
 
-- 📫 How to reach me **lucas.marianacci@epitech.eu**
+- 📫 How to reach me : discord **riroxi_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
